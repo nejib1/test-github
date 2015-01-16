@@ -1,0 +1,3 @@
+<?php
+// deuxieme fichier
+?>
